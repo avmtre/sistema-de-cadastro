@@ -1,1 +1,1 @@
-select * from tabela t where t.id = 0;
+select * from tabela t where t.id = 1;
