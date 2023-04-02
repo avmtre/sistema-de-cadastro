@@ -2,7 +2,7 @@
 
 > Status do Projeto: Em desenvolvimento
 
-Para rodar na sua máquina, execute o comando blá blá blá
+Para rodar na sua máquina, execute o comando blá blá blá blá
 
 ```
 node app.js
