@@ -5,5 +5,5 @@
 Para rodar na sua máquina, execute o comando blá blá blá
 
 ```
-blablabla -a
+node app.js
 ```
